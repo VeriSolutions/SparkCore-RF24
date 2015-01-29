@@ -22,7 +22,7 @@
 #include <application.h>
 
 #include "nRF24L01.h"
-#include "RF24.h"
+#include "SparkCore-RF24.h"
 
 /****************************************************************************/
 
