@@ -133,6 +133,7 @@
 
 /* P model memory Map */
 #define RPD         0x09
+#define W_TX_PAYLOAD_NO_ACK  0xB0
 
 /* P model bit Mnemonics */
 #define RF_DR_LOW   5
